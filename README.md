@@ -10,4 +10,4 @@ Here are some info about myself :
 - 💬 Ask me about PHP,javascript,C,python,java
 - 📫 How to reach me: asmnasim@hotmail.com
 - ⚡ Fun fact: ...problem solving and fun with friends & family.
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSI7IGe3NMzu-hoUVjtidlqvVGdSNcP1cRsA&usqp=CAU" alt="" />
+<img src="https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper7-700x525.jpg" alt="" />
